@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kasim</h1>
-<h3 align="center">Web & Mobile Developer
+<h3 align="center">Web & Cross Platform Developer
 <br/>
 <br/>
 
